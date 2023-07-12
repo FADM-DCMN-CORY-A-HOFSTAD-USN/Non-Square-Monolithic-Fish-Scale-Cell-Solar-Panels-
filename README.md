@@ -1,0 +1,1 @@
+Cutting solar cells into squares reduces effective area by > 50%. By leaving crystal cells in their organic shape, and arranging in a fish-scale pattern, solar panels are more effective per square area. 
